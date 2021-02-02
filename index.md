@@ -19,7 +19,7 @@
 
 
 
-# **公开游戏**
+## **公开游戏**
 &nbsp;
 
 - 灵幻凶宅：契约
@@ -30,5 +30,6 @@
 
 &nbsp;
 
+************
 联系邮箱：
-emilcominghome@gmail.com
+<emilcominghome@gmail.com>
