@@ -22,7 +22,7 @@
 ## **公开游戏**
 &nbsp;
 
-<table><tr><td bgcolor=orange>- [灵幻凶宅：契约](https://emil0227.github.io/VampireHouse/) </td></tr></table>
+<table><tr><td bgcolor=OldLace><font size=5>- [灵幻凶宅：契约](https://emil0227.github.io/VampireHouse/) </td></tr></table>
 
 
 &nbsp;
