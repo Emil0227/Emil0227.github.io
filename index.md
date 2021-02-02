@@ -22,5 +22,5 @@
 
 
 - 灵幻凶宅：契约
-- [Error Code: 107222](https://ldjam.com/events/ludum-dare/46/error-code-107222) **
+- [Error Code: 107222](https://ldjam.com/events/ludum-dare/46/error-code-107222) 
 
