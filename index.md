@@ -22,16 +22,12 @@
 ## **公开游戏**
 &nbsp;
 
-<table><tr><td bgcolor=yellow>
   
 - [灵幻凶宅：契约](https://emil0227.github.io/VampireHouse/) 
-
 
 &nbsp;
 
 - [Error Code: 107222](https://ldjam.com/events/ludum-dare/46/error-code-107222) 
-
-</td></tr></table>
 
 &nbsp;
 
