@@ -9,7 +9,7 @@
 
 ### ★公告★
 
-下载和游玩游戏请务必遵守_版权声明_，以及_直播和二次创作规约_，
+下载和游玩游戏请务必遵守版权声明，以及直播和二次创作规约，
 
 提前感谢您！
 
@@ -21,6 +21,6 @@
 # **公开游戏**
 
 
-- **灵幻凶宅：契约
-- **[Error Code: 107222](https://ldjam.com/events/ludum-dare/46/error-code-107222) **
+- 灵幻凶宅：契约
+- [Error Code: 107222](https://ldjam.com/events/ludum-dare/46/error-code-107222) **
 
