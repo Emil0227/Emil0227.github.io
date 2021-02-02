@@ -1,12 +1,12 @@
 ## 艾米爾的記憶
 
-You can use the [editor on GitHub](https://github.com/Emil0227/Emil0227.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 这是一个个人网站，发布自制免费游戏。
+这是一个个人网站，发布自制免费游戏。
 请多关照！
 
+### ★公告★
+
+下载和游玩游戏请务必遵守版权声明，以及直播和二次创作规约，
+提前感谢您！
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
